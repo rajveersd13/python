@@ -1,0 +1,5 @@
+1. Write a Python program to create an array of n integers and display the array items
+2. Access individual elements through indexes
+3. Write a Python program to reverse the order of the items in the array
+4. Largest Element in an Array
+5. Second Largest Element in an Array without sorting
