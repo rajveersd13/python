@@ -1,3 +1,4 @@
   1. WHAT IS ARRAY
   2. WHY ARRAY INDEX  STARTING FROM ZERO
-  3. 
+  3. WHAT IS SET
+     A set is an unordered collection of unique items. Sets are useful when you need to store distinct elements and perform operations like union, intersection, and difference.
