@@ -3,3 +3,4 @@
 3. Write a Python program to reverse the order of the items in the array
 4. Largest Element in an Array
 5. Second Largest Element in an Array without sorting
+6. Remove duplicates from Sorted array
