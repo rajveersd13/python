@@ -4,3 +4,4 @@
 4. Largest Element in an Array
 5. Second Largest Element in an Array without sorting
 6. Remove duplicates from Sorted array
+7. Left Rotate an array by one place
