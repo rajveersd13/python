@@ -2,3 +2,6 @@
   2. WHY ARRAY INDEX  STARTING FROM ZERO
   3. WHAT IS SET
      A set is an unordered collection of unique items. Sets are useful when you need to store distinct elements and perform operations like union, intersection, and difference.
+4. array meethods in python 
+Using remove(): This method removes the first occurrence of the element in the list.
+using pop(): This method removes the element at the specified index. If no index is specified, it removes the last element 
